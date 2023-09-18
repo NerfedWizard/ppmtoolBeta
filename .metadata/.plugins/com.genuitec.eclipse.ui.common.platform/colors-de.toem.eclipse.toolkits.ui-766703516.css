@@ -1,0 +1,32 @@
+PlotTree {
+background-color: #272c30;
+color: #b9c0c6;
+LIST_BACKGROUND: #272c30;
+LIST_FOREGROUND: #b9c0c6;
+
+}
+
+TlkTable {
+background-color: #272c30;
+color: #b9c0c6;
+LIST_BACKGROUND: #272c30;
+LIST_FOREGROUND: #b9c0c6;
+WIDGET_BACKGROUND: #32393e;
+
+}
+
+TlkCompositeCombo {
+background-color: #49535a;
+color: #ebedef;
+}
+
+
+TlkStyledText {
+background-color: #272c30;
+color: #ebedef;
+}
+
+
+.error {
+border: 1px red;
+}
