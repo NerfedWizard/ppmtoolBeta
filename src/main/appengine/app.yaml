@@ -3,3 +3,10 @@ env: flex
 instance_class: F1
 runtime_config:
   jdk: openjdk8
+handlers:
+- url: /.*
+  script: this field is required, but ignored
+  secure: always  # Require HTTPS
+
+manual_scaling:
+  instances: 1
